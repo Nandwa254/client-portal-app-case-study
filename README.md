@@ -1,34 +1,38 @@
-# Client Portal App Case Study
+# Client Portal Application
 
-A client portal app designed to give customers a more structured, accessible, and mobile-friendly way to interact with services, submit required information, receive updates, and communicate through a centralized digital experience.
+A case study of a mobile-first customer portal designed to make onboarding, service requests, document submission, communication and status visibility more structured.
 
-## Overview
-This portal was built to improve the customer journey by reducing friction, increasing self-service access, and creating a more organized connection between users and internal operations.
+## The problem
 
-## Core Capabilities
-- Client onboarding and guided input flows
+Customer interactions often become fragmented when onboarding, document collection, support conversations and service updates happen across separate channels.
+
+The portal was designed to bring those interactions into one clearer customer experience while improving visibility for the internal team.
+
+## Core capabilities
+
+- Guided customer onboarding
 - Secure login and access control
-- Messaging and support interaction
-- Document and image submission
 - Service request handling
-- Mobile-first interface and app-style experience
-- Status visibility and customer communication
+- Document and image submission
+- Messaging and support interaction
+- Status visibility
+- Mobile-first, app-style experience
 
-## My Role
-I led the product thinking, structure, workflow design, interface direction, and implementation of the portal, translating operational and customer needs into a usable digital platform.
+## My role
 
-## Why It Was Built
-The goal was to create a smoother and more professional customer experience by moving key interactions from fragmented manual processes into one structured portal.
+I led the product thinking, workflow design, information structure, interface direction and implementation, translating customer and operational requirements into a practical digital product.
 
-## Product Focus
-- Simplicity for end users
-- Clear navigation and usability
-- Strong mobile experience
-- Better visibility across customer actions
-- Tracability
-- More disciplined service delivery
+## Product priorities
 
-## Stack
+- Reduce customer friction
+- Make the next action obvious
+- Improve self-service access
+- Keep internal teams informed about customer progress
+- Create traceability across the service journey
+- Design for real mobile usage, not just desktop screens
+
+## Technology
+
 - HTML
 - CSS
 - JavaScript
@@ -37,7 +41,11 @@ The goal was to create a smoother and more professional customer experience by m
 - PHP
 
 ## Outcome
-The portal created a more centralized and scalable customer interaction model, improving service access, communication flow, and operational coordination.
 
-## Note
-Production code is private because it is tied to a live business environment.
+The portal created a more centralized customer-interaction model, giving users a clearer way to access services while giving operations a more structured flow for handling information and requests.
+
+## Public / private boundary
+
+The production application is not published because it is associated with a live business environment. This repository is a product and implementation case study.
+
+[View my personal portfolio](https://Nandwa254.github.io/)
