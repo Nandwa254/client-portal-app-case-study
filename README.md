@@ -48,6 +48,6 @@ I created a more centralized customer-interaction model, giving users a clearer 
 
 I am keeping the production application private because it is associated with a live business environment.
 
-This repository contains the product and implementation case-study material that I can share publicly.
+I use this repository to publish the product and implementation case-study material that I can share publicly.
 
 [View my personal portfolio](https://Nandwa254.github.io/)
