@@ -2,52 +2,45 @@
 
 I built this mobile-first customer portal to make onboarding, service requests, document submission, communication and status visibility more structured.
 
-## The problem I was solving
+## The problem
 
-When onboarding, document collection, support conversations and service updates happen across separate channels, customers can lose visibility of what is required and what happens next.
+When onboarding, document collection, support conversations and service updates happen across separate channels, it is easy for customers to lose track of what is needed and what happens next.
 
 I wanted to bring those interactions into one clearer customer experience while giving the internal team better visibility of customer progress.
 
 ## What I built
 
-- Guided customer onboarding
-- Secure login and access control
-- Service request handling
-- Document and image submission
-- Messaging and support interaction
-- Status visibility
-- Mobile-first, app-style experience
+- guided customer onboarding;
+- secure login and access control;
+- service request handling;
+- document and image submission;
+- messaging and support interaction;
+- status visibility;
+- a mobile-first, app-style experience.
 
 ## My role
 
-I led the product thinking, workflow design, information structure, interface direction and implementation. I translated customer and operational requirements into a practical digital product.
+I led the product thinking, workflow design, information structure, interface direction and implementation.
+
+I translated customer and operational requirements into a practical digital product.
 
 ## Product priorities
 
-- Reduce customer friction
-- Make the next action obvious
-- Improve self-service access
-- Keep internal teams informed about customer progress
-- Create traceability across the service journey
-- Design for real mobile usage, not just desktop screens
-
-## Technology
-
-- HTML
-- CSS
-- JavaScript
-- Google Apps Script
-- Google Sheets
-- PHP
+- reduce customer friction;
+- make the next action obvious;
+- improve self-service access;
+- keep internal teams informed about customer progress;
+- create traceability across the service journey;
+- design for real mobile use, not just desktop screens.
 
 ## What changed
 
-I created a more centralized customer-interaction model, giving users a clearer way to access services while giving operations a more structured flow for handling information and requests.
+The project brought the main customer interactions into a more structured flow. Customers had a clearer way to access services, while operations had a better view of requests and information.
 
-## What I am making public
+## About the public version
 
-I am keeping the production application private because it is associated with a live business environment.
+The production application is associated with a live business environment, so I have kept the production implementation private.
 
-I use this repository to publish the product and implementation case-study material that I can share publicly.
+This repository contains the project and case-study material that I can share publicly.
 
-[View my personal portfolio](https://Nandwa254.github.io/)
+[View my portfolio](https://Nandwa254.github.io/)
